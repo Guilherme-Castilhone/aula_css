@@ -4,4 +4,19 @@ body{
 p{
     font-size: 25px;
     font-family: "Arial";
+    color: red;
+}
+
+p.formato{
+    color: yellow;
+    font-size: 15px;
+    font-family: "Courier New"
+}
+
+.centro{
+    text-align: center;
+}
+
+h2, h3{
+    color: purple;
 }
